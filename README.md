@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis of the Harry Potter novels using R and Natural Language Processing
+Sentiment Analysis of the Jane Austen novels using R and Natural Language Processing
